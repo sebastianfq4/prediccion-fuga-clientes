@@ -4,7 +4,7 @@ Modelo de clasificación para identificar clientes con riesgo de fuga (attrition
 
 ## Descripción
 
-El attrition o fuga de clientes es uno de los principales desafíos del sector bancario: identificar de forma anticipada a los clientes con mayor probabilidad de abandonar los servicios permite implementar estrategias de retención focalizadas. Este proyecto desarrolla y compara dos modelos predictivos sobre un dataset de más de 70,000 clientes bancarios (caso BBVA).
+El attrition o fuga de clientes es uno de los principales desafíos del sector bancario: identificar de forma anticipada a los clientes con mayor probabilidad de abandonar los servicios permite implementar estrategias de retención focalizadas. Este proyecto desarrolla y compara dos modelos predictivos sobre un dataset de más de 70,000 clientes bancarios.
 
 ## Lo que hice
 
@@ -35,7 +35,7 @@ El attrition o fuga de clientes es uno de los principales desafíos del sector b
 
 ## Datos
 
-El dataset (`train_clientes.csv`, caso BBVA) contiene información bancaria de clientes y **no se incluye en este repositorio** por su naturaleza sensible.
+El dataset (`train_clientes.csv`) contiene información bancaria de clientes y **no se incluye en este repositorio** por su naturaleza sensible.
 
 ## Contenido del repositorio
 
